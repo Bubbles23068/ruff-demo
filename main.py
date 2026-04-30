@@ -1,1 +1,1 @@
-﻿printhello
+print("hello")
